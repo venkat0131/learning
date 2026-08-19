@@ -1,8 +1,5 @@
 broadband product: location:3624 Roy Messer Hwy White Pine, TN 37890-4008 USA
 Dedicated Internet: location:3624 Roy Messer Hwy White Pine, TN 37890-4008 USA,"123 William St New York, NY 10038-3804 USA",
-ethernet product: location:3624 Roy Messer Hwy White Pine, TN 37890-4008 USA 
-sonnet connection:1472 Apenzell Ln Lewisville, TX 75067-6028 USA
-
 
 1472 Apenzell Ln Lewisville, TX 75067-6028 USA
 1645 Parkway Sevierville, TN 37862-2899 Los Angeles CA 90001
